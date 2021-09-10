@@ -1,0 +1,10 @@
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\bin\Debug\ExaminadorArchivos.exe.config
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\bin\Debug\ExaminadorArchivos.exe
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\bin\Debug\ExaminadorArchivos.pdb
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\obj\Debug\ExaminadorArchivos.csproj.AssemblyReference.cache
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\obj\Debug\ExaminadorArchivos.Form1.resources
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\obj\Debug\ExaminadorArchivos.Properties.Resources.resources
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\obj\Debug\ExaminadorArchivos.csproj.GenerateResource.cache
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\obj\Debug\ExaminadorArchivos.csproj.CoreCompileInputs.cache
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\obj\Debug\ExaminadorArchivos.exe
+E:\Sistemas\.NET\ExaminadorArchivos\ExaminadorArchivos\obj\Debug\ExaminadorArchivos.pdb
